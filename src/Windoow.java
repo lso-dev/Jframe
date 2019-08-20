@@ -43,6 +43,7 @@ public class Windoow extends JFrame {
     private JLabel lblNazwisko;
     private JLabel lblMiejsceZatrudnienia;
     private JLabel lblStanowisko;
+    private JLabel lblgroode;
     private JTextField kodPocztowyTextField;
     private JTextField wojewodztwoTextField;
     private JTextField krajTextField;
