@@ -1,0 +1,15 @@
+Ogolne
+Imie: a
+Nazwisko: d
+Miejsce Zatrudnienia: s
+Stanowisko: da
+Dane Adresowe
+Ulica: asd
+Miasto: dd
+Kod pocztowy: 66666
+Wojewodztwo: zee
+Kraj: qwer
+Dane Kontaktowe
+Nr telefonu: 
+Email: 
+Strona www: 
